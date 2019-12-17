@@ -1,2 +1,3 @@
-# Research_Share
-Repo for my research
+# Links
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bhishanpdl/Research_Share/master)
+
